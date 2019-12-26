@@ -18,3 +18,7 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ## 🖥👜
 ![](imac-tote.png "iMac shoulder tote")  
 [Lavolta Carrying Case Bag for Apple iMac 27-inch](https://www.amazon.com/gp/product/B01DYHDQNI/) by [Lavolta](http://lavolta.co.uk/index.html)
+
+## 🇨🇳🐻
+![](social-credit.png "-20 social credit, Winnie the Pooh disapproves")  
+Reaction image a friend sent, can't find the original
