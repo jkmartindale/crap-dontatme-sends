@@ -11,14 +11,14 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ![](rust-evangelism-strike-force.png "Rust Evangelism Strike Force")  
 [Ferris the Strike Crab](https://redd.it/8y13ug) by [D Anzorge](https://dee.underscore.world/)
 
-## 🖥🤔
+## 🤔🖥
 ![](imac-hanger.png "iMac held up by a coat hanger")  
 [Guy at coffee shop shows off his solution to the $999 Apple stand.](https://imgur.com/gallery/YccffgO) by [OctopussSevenTwo](https://imgur.com/user/OctopussSevenTwo)
 
-## 🖥👜
+## 👜🖥
 ![](imac-tote.png "iMac shoulder tote")  
 [Lavolta Carrying Case Bag for Apple iMac 27-inch](https://www.amazon.com/gp/product/B01DYHDQNI/) by [Lavolta](http://lavolta.co.uk/index.html)
 
-## 🇨🇳🐻
+## 🐻🇨🇳
 ![](social-credit.png "-20 social credit, Winnie the Pooh disapproves")  
 Reaction image a friend sent, can't find the original
