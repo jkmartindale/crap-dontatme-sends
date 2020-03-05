@@ -22,3 +22,7 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ## 🔐❌💲
 ![](crypto-means-cryptography.png)  
 [Crypto Means Cryptography Pin](https://twitter.com/wbm312/status/1006369908676952064) by [Whitney Merrill](https://whitneymerrill.com/)
+
+## 😎⌚️
+![](cool-for-a-few-minutes.png)  
+[Katherine Hepburn's Brownie Recipe](https://www.facebook.com/nytimes/videos/1601644973213297/) published by [The New York Times](https://www.nytimes.com/)
