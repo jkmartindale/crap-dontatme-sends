@@ -22,7 +22,3 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ## 🔐❌💲
 ![](crypto-means-cryptography.png)  
 [Crypto Means Cryptography Pin](https://twitter.com/wbm312/status/1006369908676952064) by [Whitney Merrill](https://whitneymerrill.com/)
-
-## 🐻🇨🇳
-![](social-credit.png "-20 social credit, Winnie the Pooh disapproves")  
-Reaction image a friend sent, can't find the original
