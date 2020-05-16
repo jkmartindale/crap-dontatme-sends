@@ -11,6 +11,10 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ![](rust-evangelism-strike-force.png "Rust Evangelism Strike Force")  
 [Ferris the Strike Crab](https://redd.it/8y13ug) by [D Anzorge](https://dee.underscore.world/)
 
+## 🦀💨
+![](no-ethical-concurrency.png "There is no such thing as ethical concurrency under mutability")  
+[The Rust Logo That Could Have Been](https://twitter.com/Gankra_/status/1261297880297615362) by [Gankra](https://gankra.github.io/)
+
 ## 🤔🖥
 ![](imac-hanger.png "iMac held up by a coat hanger")  
 [Guy at coffee shop shows off his solution to the $999 Apple stand.](https://imgur.com/gallery/YccffgO) by [OctopussSevenTwo](https://imgur.com/user/OctopussSevenTwo)
