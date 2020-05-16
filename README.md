@@ -1,5 +1,5 @@
 # crap-dontatme-sends
-A handy collection of outdated memes and cringy jokes in the convenient format of a Telegram sticker pack.
+A handy collection of outdated memes and cringy jokes in the convenient format of a Telegram sticker pack. Grab it here: https://t.me/addstickers/dontatme
 
 Stickers that are not my own creation have best-effort author attribution. If you own intellectual property contained in this pack and would like it removed or the attribution updated, file an issue in this repository.
 
