@@ -19,6 +19,10 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ![](imac-tote.png "iMac shoulder tote")  
 [Lavolta Carrying Case Bag for Apple iMac 27-inch](https://www.amazon.com/gp/product/B01DYHDQNI/) by [Lavolta](http://lavolta.co.uk/index.html)
 
+## 🕵️
+![](dark-theme-checker.png "An image that says different things when displayed against a light or dark background")  
+[The image changes depending on theme (sorry if repost)](https://www.reddit.com/r/interestingasfuck/comments/cu1q47/the_image_changes_depending_on_theme_sorry_if/) submitted by [UrBudJohn](https://www.reddit.com/user/UrBudJohn/)
+
 ## 🤔🖥
 ![](imac-hanger.png "iMac held up by a coat hanger")  
 [Guy at coffee shop shows off his solution to the $999 Apple stand.](https://imgur.com/gallery/YccffgO) by [OctopussSevenTwo](https://imgur.com/user/OctopussSevenTwo)
