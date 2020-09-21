@@ -15,16 +15,13 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ![](no-ethical-concurrency.png "There is no such thing as ethical concurrency under mutability")  
 [The Rust Logo That Could Have Been](https://twitter.com/Gankra_/status/1261297880297615362) by [Gankra](https://gankra.github.io/)
 
-## 🤔🖥
-![](imac-hanger.png "iMac held up by a coat hanger")  
-[Guy at coffee shop shows off his solution to the $999 Apple stand.](https://imgur.com/gallery/YccffgO) by [OctopussSevenTwo](https://imgur.com/user/OctopussSevenTwo)
-
 ## 👜🖥
 ![](imac-tote.png "iMac shoulder tote")  
 [Lavolta Carrying Case Bag for Apple iMac 27-inch](https://www.amazon.com/gp/product/B01DYHDQNI/) by [Lavolta](http://lavolta.co.uk/index.html)
 
-## 🙃
-![](thanks-i-hate-it.png)  
+## 🤔🖥
+![](imac-hanger.png "iMac held up by a coat hanger")  
+[Guy at coffee shop shows off his solution to the $999 Apple stand.](https://imgur.com/gallery/YccffgO) by [OctopussSevenTwo](https://imgur.com/user/OctopussSevenTwo)
 
 ## 🔐❌💲
 ![](crypto-means-cryptography.png)  
@@ -33,6 +30,9 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ## 😎⌚️
 ![](cool-for-a-few-minutes.png)  
 [Katherine Hepburn's Brownie Recipe](https://www.facebook.com/nytimes/videos/1601644973213297/) by [The New York Times](https://www.nytimes.com/)
+
+## 🙃
+![](thanks-i-hate-it.png)  
 
 ## ⬜️
 ![](blank-vertical.png)  
