@@ -35,6 +35,10 @@ Stickers that are not my own creation have best-effort author attribution. If yo
 ![](cool-for-a-few-minutes.png)  
 [Katherine Hepburn's Brownie Recipe](https://www.facebook.com/nytimes/videos/1601644973213297/) by [The New York Times](https://www.nytimes.com/)
 
+## 🛌❗️
+![](go-to-bed.png)  
+Based on a [sloppier version](https://imgur.com/t/monopoly/k8YhzR9) I can't find the source of.
+
 ## 🙃
 ![](thanks-i-hate-it.png)  
 
