@@ -37,7 +37,7 @@ Generated with PhotoFunia's [Retro Wave](https://photofunia.com/categories/lab/r
 
 ## 🛌❗️
 ![A Monopoly Community chest card, but it says "You shouldn't be awake at this hour" "Go to bed" "Go directly to bed" "Do not reply" "Do not check your phone"](go-to-bed.png)  
-Based on a [sloppier version](https://imgur.com/t/monopoly/k8YhzR9) I can't find the source of
+Based on a [sloppier version](https://imgur.com/t/monopoly/k8YhzR9) I can't find the source of and a [scan by Team Toyboxes](https://www.teamtoyboxes.com.au/product/monopoly-2000-millennium-board-game-2-community-chest-card)
 
 ## 🙃
 ![The words "thanks, I hate it" in Myriad Pro Regular font](thanks-i-hate-it.png)  
